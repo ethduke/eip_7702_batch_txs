@@ -32,7 +32,7 @@ npm install
 npm run dev
 ```
 
-[How it looks](https://ipfs.io/ipfs/QmUzWrDaowBxtreqpU39EhZrA6nmKTdm6Pfybht6d2KHFv?filename=example.png)
+![How it looks](https://ipfs.io/ipfs/QmUzWrDaowBxtreqpU39EhZrA6nmKTdm6Pfybht6d2KHFv?filename=example.png "Sending eip-7702 txs")
 
 ### Python Implementation
 
