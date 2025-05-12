@@ -32,6 +32,8 @@ npm install
 npm run dev
 ```
 
+[![How it looks](http://full/path/to/img.jpg "Optional title")](https://ipfs.io/ipfs/QmUzWrDaowBxtreqpU39EhZrA6nmKTdm6Pfybht6d2KHFv?filename=example.png)
+
 ### Python Implementation
 
 ```bash
