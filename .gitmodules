@@ -1,0 +1,3 @@
+[submodule "eip_7702_batch_txs"]
+	path = eip_7702_batch_txs
+	url = https://github.com/ethduke/eip7702-contracts.git

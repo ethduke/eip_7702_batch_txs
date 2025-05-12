@@ -1,0 +1,28 @@
+{
+  "network": {
+    "chainId": 560048,
+    "chainName": "Hoodi Network",
+    "nativeCurrency": {
+      "name": "ETH",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "rpcUrls": [
+      "https://rpc.hoodi.ethpandaops.io"
+    ],
+    "blockExplorerUrls": ["https://explorer.hoodi.network"]
+  },
+  "contracts": {
+    "multicall": "0xf31E456241fe3CE5180Dc47055B8C5d72eCe222A",
+    "token": "0xA546A3E569c1549332659d04ab7d4569B3841Be0"
+  },
+  "recipients": {
+    "recipient1": "0x000000000000000000000000000000000000dEaD",
+    "recipient2": "0x000000000000000000000000000000000000dEaD"
+  },
+  "transactions": {
+    "tokenTransferAmount": "1.0",
+    "ethTransfer1Amount": "0.01",
+    "ethTransfer2Amount": "0.001"
+  }
+} 
